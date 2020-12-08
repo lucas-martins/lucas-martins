@@ -1,3 +1,15 @@
+<img src="./img/capa.png" />
+
+<center>
+<table >
+    <tr>
+        <td><img width="450px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USUARIO&hide=html&layout=compact&theme=buefy" /></td>
+        <td><img width="450px" align="left" src="https://github-readme-stats.vercel.app/api?username=USUARIO&theme=buefy"/></td>
+    </tr>   
+</table>
+</center>
+
+
 ### Hi there 👋
 
 <!--
