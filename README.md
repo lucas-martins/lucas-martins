@@ -1,4 +1,4 @@
-<img src="/img/capa.png" />
+<img src="/img/capa.jpg" />
 
 <center>
 <table >
